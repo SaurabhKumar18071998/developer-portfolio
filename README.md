@@ -1,9 +1,5 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
 ---
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/SaurabhKumar18071998/developer-portfolio)
 
 ---
 
@@ -17,7 +13,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://saurabhkumar.netlify.app/).
 
 ---
 
@@ -109,27 +105,27 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/SaurabhKumar18071998/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  name: "Saurabh Kumar",
+  profile: '/profile.png',
+  designation: "Software Developer",
+  description: "My name is Saurabh Kumar. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  email: 'saurabhkumar18071998@gmail.com',
+  phone: '+91 7484093077',
+  address: 'Begusarai, Bihar, India - 851210 ',
+  github: 'https://github.com/SaurabhKumar18071998',
+  facebook: 'https://www.facebook.com/profile.php?id=61553737235188',
+  linkedIn: 'https://www.linkedin.com/in/saurabh-kumar-ba19871a1/',
+  twitter: 'https://twitter.com/Saurabhkum360',
+  stackOverflow: 'https://stackoverflow.com/users/24948843/saurabh-kumar',
+  leetcode: "https://leetcode.com/u/Saurabh_Kumar18071998/",
+  devUsername: "saurabh18071998",
+  resume: "....."
 };
 ```
 
